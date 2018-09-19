@@ -1,0 +1,5 @@
+id,name,company,email,phone,interests
+1,test1,Company Ltd,int_21h@septima.com,89998887777,hack
+2,test2,Company Ltd,,,hack
+3,AAAA,Small Company,aaa@small.com,,other
+4,Иван Камушкин,Company Ltd,kamushkin@company.com,+78000000000,music
